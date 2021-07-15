@@ -1,0 +1,40 @@
+%------QUESTION!!------%
+For a polynomial $p(x)$, the value of $p(3)$ is −2.
+Which of the following must be true about $p(x)$?
+%------ANSWER!!------%
+D) The remainder when $p(x)$ is divided
+by $x − 3$ is −2.
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+A) $x − 5$ is a factor of $p(x)$.
+&&&
+B) $x − 2$ is a factor of $p(x)$.
+&&&
+C) $x + 2$ is a factor of $p(x)$.
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+69
+%------IMAGE------%

@@ -1,0 +1,42 @@
+%------QUESTION!!------%
+$$m=\frac{\Big(\frac{r}{1,200}\Big)\Big(1+\frac{r}{1,200}\Big)^N}{\Big(1+\frac{r}{1,200}\Big)^N-1} \, P $$
+The formula above gives the monthly payment $m$
+needed to pay off a loan of $P$ dollars at $r$ percent
+annual interest over $N$ months. Which of the
+following gives $P$ in terms of $m,r$, and $N$?
+%------ANSWER!!------%
+B) $P=\frac{\Big(1+\frac{r}{1,200}\Big)^N-1}{\Big(\frac{r}{1,200}\Big)\Big(1+\frac{r}{1,200}\Big)^N} \, m$
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - No Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+A) $P=\frac{\Big(\frac{r}{1,200}\Big)\Big(1+\frac{r}{1,200}\Big)^N}{\Big(1+\frac{r}{1,200}\Big)^N-1} \, m$
+&&&
+C) $P = \Big(\frac{r}{1,200}\Big) \, m$
+&&&
+D) $P = \Big(\frac{1,200}{r}\Big) \, m$
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+94
+%------IMAGE------%

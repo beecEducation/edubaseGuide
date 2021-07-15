@@ -1,0 +1,40 @@
+%------QUESTION!!------%
+Which of the following is an equation of a circle in
+the $xy$-plane with center $(0, 4)$ and a radius with
+endpoint $\left(\frac{4}{3},5\right)$?
+%------ANSWER!!------%
+A) $x^2+(y-4)^2=\frac{25}{9}$
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+B) $x^2+(y+4)^2=\frac{25}{9}$
+&&&
+C) $x^2+(y-4)^2=\frac{5}{3}$
+&&&
+D) $x^2+(y+4)^2=\frac{5}{3}$
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+74
+%------IMAGE------%

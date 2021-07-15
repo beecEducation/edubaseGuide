@@ -1,0 +1,41 @@
+%------QUESTION!!------%
+The posted weight limit for a covered wooden bridge
+in Pennsylvania is 6000 pounds. A delivery truck
+that is carrying x identical boxes each weighing
+14 pounds will pass over the bridge. If the combined
+weight of the empty delivery truck and its driver is
+4500 pounds, what is the maximum possible value
+for x that will keep the combined weight of the
+truck, driver, and boxes below the bridge’s posted
+weight limit?
+%------ANSWER!!------%
+107
+%------TYPE!!------%
+% [ ] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [X] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+%------OPTIONS_FIX------%
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------ANSWER_REQUIRE------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+66
+%------IMAGE------%

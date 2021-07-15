@@ -1,0 +1,42 @@
+%------QUESTION!!------%
+Do the data in the table support the authors’ proposed pairing of bases in DNA?
+%------ANSWER!!------%
+A) Yes, because for each given organism, the percentage of adenine is closest to the percentage of thymine, and the percentage of guanine is closest to the percentage of cytosine.
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+% [ ] READING
+%------SUBJECT!------%
+Reading
+%------CATEGORY!------%
+Reading Test
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+B) Yes, because for each given organism, the percentage of adenine is closest to the percentage of guanine, and the percentage of cytosine is closest to the percentage of thymine.
+&&&
+C) No, because for each given organism, the percentage of adenine is closest to the percentage of thymine, and the percentage of guanine is closest to the percentage of cytosine.
+&&&
+D) No, because for each given organism, the percentage of adenine is closest to the percentage of guanine, and the percentage of cytosine is closest to the percentage of thymine.
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_ORDER------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+69
+%------ANSWER_INDEFINITE------%
+%------IMAGE------%
+%------NUMERICAL_RANGE------%

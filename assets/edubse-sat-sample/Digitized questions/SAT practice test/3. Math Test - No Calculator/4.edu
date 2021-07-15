@@ -1,0 +1,45 @@
+%------QUESTION!!------%
+Kathy is a repair technician for a phone company.
+Each week, she receives a batch of phones that need
+repairs. The number of phones that she has left to fix 
+at the end of each day can be estimated with the
+equation $P = 108 - 23d$, where $P$ is the number of
+phones left and $d$ is the number of days she has
+worked that week. What is the meaning of the value
+$108$ in the equation?
+%------ANSWER!!------%
+B) Kathy starts each week with 108 phones to fix.
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - No Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+A) Kathy will complete the repairs within 108 days.
+&&&
+C) Kathy repairs phones at a rate of 108 per hour.
+&&&
+D) Kathy repairs phones at a rate of 108 per day.
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+97
+%------IMAGE------%

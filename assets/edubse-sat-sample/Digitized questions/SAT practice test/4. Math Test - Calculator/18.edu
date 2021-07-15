@@ -1,0 +1,44 @@
+%------QUESTION!!------%
+$$
+y<-x+a \\
+y>x+b~~~
+$$
+In the $xy$-plane, if $(0, 0)$ is a solution to the system of
+inequalities above, which of the following
+relationships between $a$ and $b$ must be true?
+%------ANSWER!!------%
+A) $a>b$
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+B) $b>a$ 
+&&&
+C) $|a|>|b|$
+&&&
+D) $a=-b$
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+81
+%------IMAGE------%

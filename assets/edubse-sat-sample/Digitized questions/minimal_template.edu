@@ -1,0 +1,31 @@
+%------QUESTION!!------%
+%------ANSWER!!------%
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+% [ ] READING
+%------SUBJECT!------%
+%------CATEGORY!------%
+%------MAIN_CATEGORY------%
+%------OPTIONS------%
+%------OPTIONS_FIX------%
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------ANSWER_REQUIRE------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_ORDER------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+%------ANSWER_INDEFINITE------%
+%------IMAGE------%
+%------NUMERICAL_RANGE------%

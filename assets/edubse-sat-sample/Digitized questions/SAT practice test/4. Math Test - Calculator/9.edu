@@ -1,0 +1,39 @@
+%------QUESTION!!------%
+Which of the following expresses the air temperature
+in terms of the speed of a sound wave?
+%------ANSWER!!------%
+A) $t = \frac{a-1,052}{1.08}$
+%------TYPE!!------%
+% [X] CHOICE
+% [ ] MULTIPLE-CHOICE
+% [ ] NUMERICAL
+%------SUBJECT!------%
+Mathematics
+%------CATEGORY!------%
+Math Test - Calculator
+%------MAIN_CATEGORY------%
+SAT
+%------OPTIONS------%
+B) $t = \frac{a+1,052}{1.08}$
+&&&
+C) $t = \frac{1,052-a}{1.08}$
+&&&
+D) $t = \frac{1.08}{a+1,052}$
+%------OPTIONS_FIX------%
+abc
+%------NOTE------%
+%------PRIVATE_NOTE------%
+%------QUESTION_FORMAT------%
+% [ ] NORMAL
+% [X] LATEX
+% [ ] LONG
+%------ANSWER_FORMAT------%
+%------SOURCE------%
+%------GROUP------%
+%------TAG------%
+%------DECIMALS------%
+%------ANSWER_HIDE------%
+%------ANSWER_LABEL------%
+%------PRIORITY------%
+91
+%------IMAGE------%
